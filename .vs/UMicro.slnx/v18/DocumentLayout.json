@@ -3,12 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\alex_\\source\\repos\\UMicro\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4204CB28-FF9B-409A-9227-147420C0DDF7}|Core\\Core.csproj|c:\\users\\alex_\\source\\repos\\umicro\\core\\core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{4204CB28-FF9B-409A-9227-147420C0DDF7}|Core\\Core.csproj|solutionrelative:core\\core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{727CFD8C-23B7-C991-64E7-E71059A345FA}|Persistence\\Persistence.csproj|c:\\users\\alex_\\source\\repos\\umicro\\persistence\\configs\\ventaconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{727CFD8C-23B7-C991-64E7-E71059A345FA}|Persistence\\Persistence.csproj|solutionrelative:persistence\\configs\\ventaconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C2B966CF-F9BE-4D44-B152-E641B7B4E89F}|Persistence\\Persistence.csproj|c:\\users\\alex_\\source\\repos\\umicro\\persistence\\persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{C2B966CF-F9BE-4D44-B152-E641B7B4E89F}|Persistence\\Persistence.csproj|solutionrelative:persistence\\persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{727CFD8C-23B7-C991-64E7-E71059A345FA}|Persistence\\Persistence.csproj|c:\\users\\alex_\\source\\repos\\umicro\\persistence\\configs\\vehiculoconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{727CFD8C-23B7-C991-64E7-E71059A345FA}|Persistence\\Persistence.csproj|solutionrelative:persistence\\configs\\vehiculoconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\alex_\\source\\repos\\umicro\\domain\\model\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\model\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\alex_\\source\\repos\\umicro\\domain\\model\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\model\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{727CFD8C-23B7-C991-64E7-E71059A345FA}|Persistence\\Persistence.csproj|c:\\users\\alex_\\source\\repos\\umicro\\persistence\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{727CFD8C-23B7-C991-64E7-E71059A345FA}|Persistence\\Persistence.csproj|solutionrelative:persistence\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{727CFD8C-23B7-C991-64E7-E71059A345FA}|Persistence\\Persistence.csproj|c:\\users\\alex_\\source\\repos\\umicro\\persistence\\configs\\marcaconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{727CFD8C-23B7-C991-64E7-E71059A345FA}|Persistence\\Persistence.csproj|solutionrelative:persistence\\configs\\marcaconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\alex_\\source\\repos\\umicro\\domain\\model\\marca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\model\\marca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\alex_\\source\\repos\\umicro\\domain\\model\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\model\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ED06CAD-956C-C94D-BC0C-E89E30A887C2}|Core\\Core.csproj|c:\\users\\alex_\\source\\repos\\umicro\\core\\core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5ED06CAD-956C-C94D-BC0C-E89E30A887C2}|Core\\Core.csproj|solutionrelative:core\\core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,7 +51,111 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Core",
+              "Title": "VentaConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\alex_\\source\\repos\\UMicro\\Persistence\\Configs\\VentaConfiguration.cs",
+              "RelativeDocumentMoniker": "Persistence\\Configs\\VentaConfiguration.cs",
+              "ToolTip": "C:\\Users\\alex_\\source\\repos\\UMicro\\Persistence\\Configs\\VentaConfiguration.cs",
+              "RelativeToolTip": "Persistence\\Configs\\VentaConfiguration.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T07:36:31.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VehiculoConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\alex_\\source\\repos\\UMicro\\Persistence\\Configs\\VehiculoConfiguration.cs",
+              "RelativeDocumentMoniker": "Persistence\\Configs\\VehiculoConfiguration.cs",
+              "ToolTip": "C:\\Users\\alex_\\source\\repos\\UMicro\\Persistence\\Configs\\VehiculoConfiguration.cs",
+              "RelativeToolTip": "Persistence\\Configs\\VehiculoConfiguration.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAADwvyIAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T07:29:33.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MarcaConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\alex_\\source\\repos\\UMicro\\Persistence\\Configs\\MarcaConfiguration.cs",
+              "RelativeDocumentMoniker": "Persistence\\Configs\\MarcaConfiguration.cs",
+              "ToolTip": "C:\\Users\\alex_\\source\\repos\\UMicro\\Persistence\\Configs\\MarcaConfiguration.cs",
+              "RelativeToolTip": "Persistence\\Configs\\MarcaConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T07:21:34.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\alex_\\source\\repos\\UMicro\\Persistence\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Persistence\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\alex_\\source\\repos\\UMicro\\Persistence\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Persistence\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T07:17:10.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Venta.cs",
+              "DocumentMoniker": "C:\\Users\\alex_\\source\\repos\\UMicro\\Domain\\Model\\Venta.cs",
+              "RelativeDocumentMoniker": "Domain\\Model\\Venta.cs",
+              "ToolTip": "C:\\Users\\alex_\\source\\repos\\UMicro\\Domain\\Model\\Venta.cs",
+              "RelativeToolTip": "Domain\\Model\\Venta.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAQwA8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T07:07:19.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Vehiculo.cs",
+              "DocumentMoniker": "C:\\Users\\alex_\\source\\repos\\UMicro\\Domain\\Model\\Vehiculo.cs",
+              "RelativeDocumentMoniker": "Domain\\Model\\Vehiculo.cs",
+              "ToolTip": "C:\\Users\\alex_\\source\\repos\\UMicro\\Domain\\Model\\Vehiculo.cs",
+              "RelativeToolTip": "Domain\\Model\\Vehiculo.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T07:05:23.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\alex_\\source\\repos\\UMicro\\Domain\\Model\\Usuario.cs",
+              "RelativeDocumentMoniker": "Domain\\Model\\Usuario.cs",
+              "ToolTip": "C:\\Users\\alex_\\source\\repos\\UMicro\\Domain\\Model\\Usuario.cs",
+              "RelativeToolTip": "Domain\\Model\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T07:03:17.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Marca.cs",
+              "DocumentMoniker": "C:\\Users\\alex_\\source\\repos\\UMicro\\Domain\\Model\\Marca.cs",
+              "RelativeDocumentMoniker": "Domain\\Model\\Marca.cs",
+              "ToolTip": "C:\\Users\\alex_\\source\\repos\\UMicro\\Domain\\Model\\Marca.cs",
+              "RelativeToolTip": "Domain\\Model\\Marca.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T07:01:27.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Core.csproj",
               "DocumentMoniker": "C:\\Users\\alex_\\source\\repos\\UMicro\\Core\\Core.csproj",
               "RelativeDocumentMoniker": "Core\\Core.csproj",
               "ToolTip": "C:\\Users\\alex_\\source\\repos\\UMicro\\Core\\Core.csproj",
@@ -31,19 +163,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2026-09-07T21:45:31.781Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Persistence",
-              "DocumentMoniker": "C:\\Users\\alex_\\source\\repos\\UMicro\\Persistence\\Persistence.csproj",
-              "RelativeDocumentMoniker": "Persistence\\Persistence.csproj",
-              "ToolTip": "C:\\Users\\alex_\\source\\repos\\UMicro\\Persistence\\Persistence.csproj",
-              "RelativeToolTip": "Persistence\\Persistence.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-09-07T21:43:19.583Z",
               "EditorCaption": ""
             }
           ]
