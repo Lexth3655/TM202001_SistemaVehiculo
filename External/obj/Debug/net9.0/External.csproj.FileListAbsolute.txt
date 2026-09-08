@@ -15,3 +15,6 @@ C:\Users\alex_\source\repos\UMicro\External\obj\Debug\net9.0\External.dll
 C:\Users\alex_\source\repos\UMicro\External\obj\Debug\net9.0\refint\External.dll
 C:\Users\alex_\source\repos\UMicro\External\obj\Debug\net9.0\External.pdb
 C:\Users\alex_\source\repos\UMicro\External\obj\Debug\net9.0\ref\External.dll
+C:\Users\alex_\source\repos\UMicro\External\bin\Debug\net9.0\Domain.dll
+C:\Users\alex_\source\repos\UMicro\External\bin\Debug\net9.0\Domain.pdb
+C:\Users\alex_\source\repos\UMicro\External\obj\Debug\net9.0\External.sourcelink.json

@@ -13,7 +13,7 @@ namespace Persistence.Configs
     {
         public void Configure(EntityTypeBuilder<Venta> builder)
         {
-            builder.ToTable("Venta");
+            builder.ToTable("Venta", "dbo");
             builder.HasKey(x => x.Id);
 
             builder.Property(x => x.TotalVenta)

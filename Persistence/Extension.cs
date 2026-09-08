@@ -18,7 +18,7 @@ namespace Persistence
                 ?? throw new InvalidOperationException("No se configuró la cadena de conexión 'sql:cx'.");
 
             services.AddDbContext<ApplicationDbContext>(options => options.UseSqlServer(connectionString));
-            //services.AddScoped(typeof(IRepository<>), typeof(RepositoryGeneric<>));
+            
             return services;
         }
 

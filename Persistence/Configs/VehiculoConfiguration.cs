@@ -13,7 +13,7 @@ namespace Persistence.Configs
     {
         public void Configure(EntityTypeBuilder<Vehiculo> builder)
         {
-            builder.ToTable("Vehiculo");
+            builder.ToTable("Vehiculo", "dbo");
             builder.HasKey(x => x.Id);
             builder.Property(x => x.Modelo)
                 .IsRequired()
