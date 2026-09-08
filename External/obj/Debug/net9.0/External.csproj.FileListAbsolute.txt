@@ -1,0 +1,17 @@
+C:\Users\alex_\source\repos\UMicro\External\bin\Debug\net9.0\External.deps.json
+C:\Users\alex_\source\repos\UMicro\External\bin\Debug\net9.0\External.dll
+C:\Users\alex_\source\repos\UMicro\External\bin\Debug\net9.0\External.pdb
+C:\Users\alex_\source\repos\UMicro\External\bin\Debug\net9.0\Core.dll
+C:\Users\alex_\source\repos\UMicro\External\bin\Debug\net9.0\Persistence.dll
+C:\Users\alex_\source\repos\UMicro\External\bin\Debug\net9.0\Core.pdb
+C:\Users\alex_\source\repos\UMicro\External\bin\Debug\net9.0\Persistence.pdb
+C:\Users\alex_\source\repos\UMicro\External\obj\Debug\net9.0\External.csproj.AssemblyReference.cache
+C:\Users\alex_\source\repos\UMicro\External\obj\Debug\net9.0\External.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex_\source\repos\UMicro\External\obj\Debug\net9.0\External.AssemblyInfoInputs.cache
+C:\Users\alex_\source\repos\UMicro\External\obj\Debug\net9.0\External.AssemblyInfo.cs
+C:\Users\alex_\source\repos\UMicro\External\obj\Debug\net9.0\External.csproj.CoreCompileInputs.cache
+C:\Users\alex_\source\repos\UMicro\External\obj\Debug\net9.0\External.csproj.Up2Date
+C:\Users\alex_\source\repos\UMicro\External\obj\Debug\net9.0\External.dll
+C:\Users\alex_\source\repos\UMicro\External\obj\Debug\net9.0\refint\External.dll
+C:\Users\alex_\source\repos\UMicro\External\obj\Debug\net9.0\External.pdb
+C:\Users\alex_\source\repos\UMicro\External\obj\Debug\net9.0\ref\External.dll

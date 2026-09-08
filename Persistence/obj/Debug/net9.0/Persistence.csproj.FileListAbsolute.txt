@@ -1,0 +1,17 @@
+C:\Users\alex_\source\repos\UMicro\Persistence\bin\Debug\net9.0\Persistence.deps.json
+C:\Users\alex_\source\repos\UMicro\Persistence\bin\Debug\net9.0\Persistence.runtimeconfig.json
+C:\Users\alex_\source\repos\UMicro\Persistence\bin\Debug\net9.0\Persistence.dll
+C:\Users\alex_\source\repos\UMicro\Persistence\bin\Debug\net9.0\Persistence.pdb
+C:\Users\alex_\source\repos\UMicro\Persistence\bin\Debug\net9.0\Core.dll
+C:\Users\alex_\source\repos\UMicro\Persistence\bin\Debug\net9.0\Core.pdb
+C:\Users\alex_\source\repos\UMicro\Persistence\obj\Debug\net9.0\Persistence.csproj.AssemblyReference.cache
+C:\Users\alex_\source\repos\UMicro\Persistence\obj\Debug\net9.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex_\source\repos\UMicro\Persistence\obj\Debug\net9.0\Persistence.AssemblyInfoInputs.cache
+C:\Users\alex_\source\repos\UMicro\Persistence\obj\Debug\net9.0\Persistence.AssemblyInfo.cs
+C:\Users\alex_\source\repos\UMicro\Persistence\obj\Debug\net9.0\Persistence.csproj.CoreCompileInputs.cache
+C:\Users\alex_\source\repos\UMicro\Persistence\obj\Debug\net9.0\Persiste.61C28332.Up2Date
+C:\Users\alex_\source\repos\UMicro\Persistence\obj\Debug\net9.0\Persistence.dll
+C:\Users\alex_\source\repos\UMicro\Persistence\obj\Debug\net9.0\refint\Persistence.dll
+C:\Users\alex_\source\repos\UMicro\Persistence\obj\Debug\net9.0\Persistence.pdb
+C:\Users\alex_\source\repos\UMicro\Persistence\obj\Debug\net9.0\Persistence.genruntimeconfig.cache
+C:\Users\alex_\source\repos\UMicro\Persistence\obj\Debug\net9.0\ref\Persistence.dll
