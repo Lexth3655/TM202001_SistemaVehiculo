@@ -13,7 +13,7 @@ namespace Domain.Model
         public decimal TotalVenta { get; set; }
         public int Cantidad { get; set; }
 
-        public long? VehiculoId { get; set; } = 0;
+        public int? VehiculoId { get; set; } = 0;
         [JsonIgnore]
         public Vehiculo? Vehiculo { get; set; }
 
